@@ -1,3 +1,4 @@
 function teslog() {
-    console.log("TES LOG");
+    console.log("EDITED TES LOG");
+
 }
